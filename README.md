@@ -1,7 +1,7 @@
 # Smooth Walk-to-Stop Transition in Godot
 A small demo project showcasing how to implement a smooth transition from walking to stopping in Godot using **AnimationTree** and **Tween**.
 
-This repository accompanies the tutorial I created on YouTube. You can check out the video for a step-by-step guide: [Watch the Tutorial on YouTube](https://www.youtube.com).
+This repository accompanies the tutorial I created on YouTube. You can check out the video for a step-by-step guide: [Watch the Tutorial on YouTube](https://youtu.be/MTCGoue_vww).
 
 ---
 
@@ -33,5 +33,5 @@ This repository accompanies the tutorial I created on YouTube. You can check out
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/smooth-walk-stop-transition.git
-   cd smooth-walk-stop-transition
+   git clone https://github.com/Lakshman-YT/walk2idle.git
+   cd walk2idle
