@@ -13,6 +13,15 @@ This repository accompanies the tutorial I created on YouTube. You can check out
 
 ---
 
+## 📸 **Preview Images**  
+
+### **Image1**  
+![Object Interaction](https://github.com/Lakshman-YT/look-at-Godot/blob/main/images/image1.png)  
+
+---
+
+
+
 ## How It Works
 ### Key Components:
 1. **AnimationTree**:
